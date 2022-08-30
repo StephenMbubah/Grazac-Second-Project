@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807537843081",
+    "project_id": "notaben-c3bb1",
+    "storage_bucket": "notaben-c3bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807537843081:android:467c948865c31d71811f58",
+        "android_client_info": {
+          "package_name": "com.example.note_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807537843081-pca39adhor46cns1dubuh275e2bvridu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjrAEniU_BYturTpLn0JRYMTBELEjx0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807537843081-pca39adhor46cns1dubuh275e2bvridu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
